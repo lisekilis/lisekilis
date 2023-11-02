@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lisekilis
 - 👀 I’m interested in Coding, Games, Sport / Military vehicles and Music.
-- 🌱 I’m currently learning c++ and starting Java
+- 🌱 I’m currently learning c++, c, lua and starting Js,Ts
 - 📫 How to reach me on Discord: lisekilis#0001
 
 <!---
